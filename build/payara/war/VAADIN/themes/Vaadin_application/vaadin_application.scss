@@ -1,0 +1,7 @@
+@import "../valo/valo.scss";
+
+@mixin vaadin_application {
+	@include valo;
+
+	/* Add your theme selectors here */
+}

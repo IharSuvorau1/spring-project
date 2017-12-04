@@ -1,0 +1,91 @@
+[INFO] Listening for transport dt_socket at address: 8000
+[ERROR] дек 03, 2017 10:56:18 AM com.devsoap.plugin.PayaraServerRunner main
+[ERROR] INFO: Starting Payara web server...
+[ERROR] дек 03, 2017 10:56:18 AM com.devsoap.plugin.PayaraServerRunner main
+[ERROR] INFO: Running on port 8080
+[INFO] Found populator: org.glassfish.kernel.embedded.EmbeddedDomainXml
+[ERROR] дек 03, 2017 10:56:19 AM org.jvnet.hk2.config.ConfigParser handleElement
+[ERROR] SEVERE: Ignoring unrecognized element jms-service at Line number = 101
+[ERROR] Column number = 72
+[ERROR] System Id = null
+[ERROR] Public Id = null
+[ERROR] Location Uri= null
+[ERROR] CharacterOffset = 5783
+[ERROR] 
+[ERROR] дек 03, 2017 10:56:19 AM org.glassfish.security.services.impl.authorization.AuthorizationServiceImpl initialize
+[ERROR] INFO: Authorization Service has successfully initialized.
+[ERROR] дек 03, 2017 10:56:19 AM org.hibernate.validator.internal.util.Version <clinit>
+[ERROR] INFO: HV000001: Hibernate Validator 5.1.2.Final
+[ERROR] дек 03, 2017 10:56:20 AM org.glassfish.grizzly.config.Utils newInstance
+[ERROR] WARNING: Instance could not be initialized. Class=interface org.glassfish.grizzly.http.server.AddOn, name=http-listener, realClassName=org.glassfish.grizzly.http2.Http2AddOn
+[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.services.impl.GrizzlyProxy start0
+[ERROR] INFO: Grizzly Framework 2.3.21 started in: 111ms - bound to [/0.0.0.0:8080]
+[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.services.impl.GrizzlyService createNetworkProxy
+[ERROR] INFO: Network listener https-listener on port 0 disabled per domain.xml
+[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] INFO: Admin Console Adapter: context root: /admin
+[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] INFO: Admin Console Adapter: context root: /admin
+[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] INFO: Admin Console Adapter: context root: /admin
+[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.server.AppServerStartup postStartupJob
+[ERROR] INFO: Undefined Product Name - define product and version info in config/branding  0.0.0.0.0  (0) startup time : Embedded (1 287ms), startup services(1 030ms), total(2 317ms)
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.SecurityLifecycle <init>
+[ERROR] INFO: Java security manager is disabled.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.SecurityLifecycle onInitialization
+[ERROR] INFO: Entering Security Startup Service.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.PolicyLoader loadPolicy
+[ERROR] INFO: Loading policy provider com.sun.enterprise.security.jacc.provider.SimplePolicyProvider.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] INFO: Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] INFO: Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] INFO: Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.SecurityLifecycle onInitialization
+[ERROR] INFO: Security Service(s) started successfully.
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.WebContainer createHttpListener
+[ERROR] INFO: Created HTTP listener http-listener on host/port 0.0.0.0:8080
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.VirtualServer addProbes
+[ERROR] SEVERE: Error adding HttpProbes. NetworkListener https-listeners GrizzlyProxy is NULL
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.WebContainer createHosts
+[ERROR] INFO: Created virtual server server
+[ERROR] дек 03, 2017 10:56:21 AM org.apache.catalina.realm.JAASRealm setContainer
+[ERROR] INFO: Setting JAAS app name glassfish-web
+[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.WebContainer loadSystemDefaultWebModules
+[ERROR] INFO: Virtual server server loaded default web module
+[ERROR] дек 03, 2017 10:56:22 AM org.jboss.weld.bootstrap.WeldStartup <clinit>
+[ERROR] INFO: WELD-000900: SNAPSHOT
+[ERROR] дек 03, 2017 10:56:23 AM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+[ERROR] WARN: WELD-000411: Observer method [BackedAnnotatedMethod] org.glassfish.sse.impl.ServerSentEventCdiExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+[ERROR] дек 03, 2017 10:56:23 AM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+[ERROR] WARN: WELD-000411: Observer method [BackedAnnotatedMethod] private org.glassfish.jersey.ext.cdi1x.internal.CdiComponentProvider.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+[ERROR] дек 03, 2017 10:56:24 AM org.glassfish.jersey.internal.Errors logErrors
+[ERROR] WARNING: The following warnings have been detected: WARNING: Parameter 1 of type com.vaadin.ui.dnd.DragSourceExtension<? extends com.vaadin.ui.AbstractComponent> from public void com.vaadin.ui.UI.setActiveDragSource(com.vaadin.ui.dnd.DragSourceExtension<? extends com.vaadin.ui.AbstractComponent>) is not resolvable to a concrete type.
+[ERROR] 
+[ERROR] дек 03, 2017 10:56:24 AM com.sun.enterprise.web.WebApplication start
+[ERROR] INFO: Loading application [war] at [/]
+[ERROR] дек 03, 2017 10:56:24 AM org.glassfish.deployment.admin.DeployCommand execute
+[ERROR] INFO: war was successfully deployed in 3 379 milliseconds.
+[ERROR] дек 03, 2017 10:56:24 AM com.sun.web.security.RealmAdapter getAppContextID
+[ERROR] WARNING: Context path from ServletContext:  differs from path from bundle: /
+[ERROR] дек 03, 2017 10:56:24 AM com.vaadin.server.DefaultDeploymentConfiguration checkProductionMode
+[ERROR] WARNING:
+[ERROR] =================================================================
+[ERROR] Vaadin is running in DEBUG MODE.
+[ERROR] Add productionMode=true to web.xml to disable debug features.
+[ERROR] To show debug window, add ?debug to your application URL.
+[ERROR] =================================================================
+[ERROR] дек 03, 2017 10:56:25 AM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+[ERROR] INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4755f31b: startup date [Sun Dec 03 10:56:25 EET 2017]; root of context hierarchy
+[ERROR] дек 03, 2017 10:56:25 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+[ERROR] INFO: Loading XML bean definitions from class path resource [spring.xml]
+[ERROR] дек 03, 2017 10:56:25 AM com.vaadin.server.VaadinServlet serveStaticResourcesInVAADIN
+[ERROR] INFO: Requested resource [/VAADIN/themes/VaadinApplication/styles.css] not found from filesystem or through class loader. Add widgetset and/or theme JAR to your classpath or add files to WebContent/VAADIN folder.
+[ERROR] дек 03, 2017 10:56:26 AM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
+[ERROR] INFO: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[ERROR] дек 03, 2017 10:56:26 AM org.springframework.jdbc.datasource.DriverManagerDataSource setDriverClassName
+[ERROR] INFO: Loaded JDBC driver: org.postgresql.Driver
+[INFO] CinemaEvent{id='2', name='Hurts', price=70, rating=HIGH, dates=[2017-12-03T10:56:27.222]}
+[INFO] CinemaEvent{id='1', name='Dead by April', price=50, rating=HIGH, dates=[2017-12-03T10:56:27.222]}
+[INFO] CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-03T10:56:27.222]}
