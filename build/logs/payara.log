@@ -1,10 +1,134 @@
 [INFO] Listening for transport dt_socket at address: 8000
-[ERROR] дек 03, 2017 10:56:18 AM com.devsoap.plugin.PayaraServerRunner main
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:36 PM com.devsoap.plugin.PayaraServerRunner main
 [ERROR] INFO: Starting Payara web server...
-[ERROR] дек 03, 2017 10:56:18 AM com.devsoap.plugin.PayaraServerRunner main
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:36 PM com.devsoap.plugin.PayaraServerRunner main
 [ERROR] INFO: Running on port 8080
 [INFO] Found populator: org.glassfish.kernel.embedded.EmbeddedDomainXml
-[ERROR] дек 03, 2017 10:56:19 AM org.jvnet.hk2.config.ConfigParser handleElement
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:37 PM org.jvnet.hk2.config.ConfigParser handleElement
+[ERROR] SEVERE: Ignoring unrecognized element jms-service at Line number = 101
+[ERROR] Column number = 72
+[ERROR] System Id = null
+[ERROR] Public Id = null
+[ERROR] Location Uri= null
+[ERROR] CharacterOffset = 5783
+[ERROR]
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:37 PM org.glassfish.security.services.impl.authorization.AuthorizationServiceImpl initialize
+[ERROR] INFO: Authorization Service has successfully initialized.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:38 PM org.hibernate.validator.internal.util.Version <clinit>
+[ERROR] INFO: HV000001: Hibernate Validator 5.1.2.Final
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:38 PM org.glassfish.grizzly.config.Utils newInstance
+[ERROR] WARNING: Instance could not be initialized. Class=interface org.glassfish.grizzly.http.server.AddOn, name=http-listener, realClassName=org.glassfish.grizzly.http2.Http2AddOn
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:39 PM com.sun.enterprise.v3.services.impl.GrizzlyProxy start0
+[ERROR] INFO: Grizzly Framework 2.3.21 started in: 124ms - bound to [/0.0.0.0:8080]
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:39 PM com.sun.enterprise.v3.services.impl.GrizzlyService createNetworkProxy
+[ERROR] INFO: Network listener https-listener on port 0 disabled per domain.xml
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:39 PM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] INFO: Admin Console Adapter: context root: /admin
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:39 PM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] INFO: Admin Console Adapter: context root: /admin
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:39 PM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] INFO: Admin Console Adapter: context root: /admin
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:39 PM com.sun.enterprise.v3.server.AppServerStartup postStartupJob
+[ERROR] INFO: Undefined Product Name - define product and version info in config/branding  0.0.0.0.0  (0) startup time : Embedded (1пїЅ323ms), startup services(1пїЅ243ms), total(2пїЅ566ms)
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.SecurityLifecycle <init>
+[ERROR] INFO: Java security manager is disabled.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.SecurityLifecycle onInitialization
+[ERROR] INFO: Entering Security Startup Service.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.PolicyLoader loadPolicy
+[ERROR] INFO: Loading policy provider com.sun.enterprise.security.jacc.provider.SimplePolicyProvider.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] INFO: Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] INFO: Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] INFO: Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.security.SecurityLifecycle onInitialization
+[ERROR] INFO: Security Service(s) started successfully.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.web.WebContainer createHttpListener
+[ERROR] INFO: Created HTTP listener http-listener on host/port 0.0.0.0:8080
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.web.VirtualServer addProbes
+[ERROR] SEVERE: Error adding HttpProbes. NetworkListener https-listeners GrizzlyProxy is NULL
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.web.WebContainer createHosts
+[ERROR] INFO: Created virtual server server
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM org.apache.catalina.realm.JAASRealm setContainer
+[ERROR] INFO: Setting JAAS app name glassfish-web
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM com.sun.enterprise.web.WebContainer loadSystemDefaultWebModules
+[ERROR] INFO: Virtual server server loaded default web module
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:40 PM org.jboss.weld.bootstrap.WeldStartup <clinit>
+[ERROR] INFO: WELD-000900: SNAPSHOT
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:41 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+[ERROR] WARN: WELD-000411: Observer method [BackedAnnotatedMethod] private org.glassfish.jersey.ext.cdi1x.internal.CdiComponentProvider.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:41 PM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+[ERROR] WARN: WELD-000411: Observer method [BackedAnnotatedMethod] org.glassfish.sse.impl.ServerSentEventCdiExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:42 PM org.glassfish.jersey.internal.Errors logErrors
+[ERROR] WARNING: The following warnings have been detected: WARNING: Parameter 1 of type com.vaadin.ui.dnd.DragSourceExtension<? extends com.vaadin.ui.AbstractComponent> from public void com.vaadin.ui.UI.setActiveDragSource(com.vaadin.ui.dnd.DragSourceExtension<? extends com.vaadin.ui.AbstractComponent>) is not resolvable to a concrete type.
+[ERROR]
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:42 PM com.sun.enterprise.web.WebApplication start
+[ERROR] INFO: Loading application [war] at [/]
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:43 PM org.glassfish.deployment.admin.DeployCommand execute
+[ERROR] INFO: war was successfully deployed in 3пїЅ184 milliseconds.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:43 PM com.sun.web.security.RealmAdapter getAppContextID
+[ERROR] WARNING: Context path from ServletContext:  differs from path from bundle: /
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:43 PM com.vaadin.server.DefaultDeploymentConfiguration checkProductionMode
+[ERROR] WARNING:
+[ERROR] =================================================================
+[ERROR] Vaadin is running in DEBUG MODE.
+[ERROR] Add productionMode=true to web.xml to disable debug features.
+[ERROR] To show debug window, add ?debug to your application URL.
+[ERROR] =================================================================
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:43 PM com.vaadin.server.VaadinServlet serveStaticResourcesInVAADIN
+[ERROR] INFO: Requested resource [/VAADIN/themes/VaadinApplication/styles.css] not found from filesystem or through class loader. Add widgetset and/or theme JAR to your classpath or add files to WebContent/VAADIN folder.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:43 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+[ERROR] INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@44c0023d: startup date [Tue Dec 12 18:41:43 EET 2017]; root of context hierarchy
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:43 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+[ERROR] INFO: Loading XML bean definitions from class path resource [spring.xml]
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
+[ERROR] INFO: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.jdbc.datasource.DriverManagerDataSource setDriverClassName
+[ERROR] INFO: Loaded JDBC driver: org.postgresql.Driver
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [protected final java.sql.Connection org.springframework.jdbc.core.support.JdbcDaoSupport.getConnection() throws org.springframework.jdbc.CannotGetJdbcConnectionException] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [protected final org.springframework.jdbc.support.SQLExceptionTranslator org.springframework.jdbc.core.support.JdbcDaoSupport.getExceptionTranslator()] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [protected final void org.springframework.jdbc.core.support.JdbcDaoSupport.releaseConnection(java.sql.Connection)] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final void org.springframework.jdbc.core.support.JdbcDaoSupport.setDataSource(javax.sql.DataSource)] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final org.springframework.jdbc.core.JdbcTemplate org.springframework.jdbc.core.support.JdbcDaoSupport.getJdbcTemplate()] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final void org.springframework.jdbc.core.support.JdbcDaoSupport.setJdbcTemplate(org.springframework.jdbc.core.JdbcTemplate)] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final javax.sql.DataSource org.springframework.jdbc.core.support.JdbcDaoSupport.getDataSource()] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] WARNING: Unable to proxy interface-implementing method [public final void org.springframework.dao.support.DaoSupport.afterPropertiesSet() throws java.lang.IllegalArgumentException,org.springframework.beans.factory.BeanInitializationException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[ERROR] пїЅпїЅпїЅ 12, 2017 6:41:44 PM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final void org.springframework.dao.support.DaoSupport.afterPropertiesSet() throws java.lang.IllegalArgumentException,org.springframework.beans.factory.BeanInitializationException] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[INFO] dEMOTIONAL
+[INFO] COUNT IS:  1
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-12T18:41:55.647]}]
+[INFO] dEMOTIONAL
+[INFO] COUNT IS:  2
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-12T18:41:55.781]}]
+[INFO] dEMOTIONAL
+[INFO] COUNT IS:  3
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-12T18:41:55.914]}]
+[INFO] dEMOTIONAL
+[INFO] COUNT IS:  4
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-12T18:41:56.045]}]
+[INFO] dEMOTIONAL
+[INFO] COUNT IS:  5
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-12T18:41:56.254]}]
+[INFO] dEMOTIONAL
+[INFO] COUNT IS:  6
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-12T18:41:56.422]}]
+[INFO] Listening for transport dt_socket at address: 8000
+[ERROR] дек 17, 2017 9:50:02 AM com.devsoap.plugin.PayaraServerRunner main
+[ERROR] INFO: Starting Payara web server...
+[ERROR] дек 17, 2017 9:50:02 AM com.devsoap.plugin.PayaraServerRunner main
+[ERROR] INFO: Running on port 8080
+[INFO] Found populator: org.glassfish.kernel.embedded.EmbeddedDomainXml
+[ERROR] дек 17, 2017 9:50:03 AM org.jvnet.hk2.config.ConfigParser handleElement
 [ERROR] SEVERE: Ignoring unrecognized element jms-service at Line number = 101
 [ERROR] Column number = 72
 [ERROR] System Id = null
@@ -12,80 +136,111 @@
 [ERROR] Location Uri= null
 [ERROR] CharacterOffset = 5783
 [ERROR] 
-[ERROR] дек 03, 2017 10:56:19 AM org.glassfish.security.services.impl.authorization.AuthorizationServiceImpl initialize
+[ERROR] дек 17, 2017 9:50:04 AM org.glassfish.security.services.impl.authorization.AuthorizationServiceImpl initialize
 [ERROR] INFO: Authorization Service has successfully initialized.
-[ERROR] дек 03, 2017 10:56:19 AM org.hibernate.validator.internal.util.Version <clinit>
+[ERROR] дек 17, 2017 9:50:04 AM org.hibernate.validator.internal.util.Version <clinit>
 [ERROR] INFO: HV000001: Hibernate Validator 5.1.2.Final
-[ERROR] дек 03, 2017 10:56:20 AM org.glassfish.grizzly.config.Utils newInstance
+[ERROR] дек 17, 2017 9:50:05 AM org.glassfish.grizzly.config.Utils newInstance
 [ERROR] WARNING: Instance could not be initialized. Class=interface org.glassfish.grizzly.http.server.AddOn, name=http-listener, realClassName=org.glassfish.grizzly.http2.Http2AddOn
-[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.services.impl.GrizzlyProxy start0
-[ERROR] INFO: Grizzly Framework 2.3.21 started in: 111ms - bound to [/0.0.0.0:8080]
-[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.services.impl.GrizzlyService createNetworkProxy
+[ERROR] дек 17, 2017 9:50:05 AM com.sun.enterprise.v3.services.impl.GrizzlyProxy start0
+[ERROR] INFO: Grizzly Framework 2.3.21 started in: 100ms - bound to [/0.0.0.0:8080]
+[ERROR] дек 17, 2017 9:50:05 AM com.sun.enterprise.v3.services.impl.GrizzlyService createNetworkProxy
 [ERROR] INFO: Network listener https-listener on port 0 disabled per domain.xml
-[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] дек 17, 2017 9:50:05 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
 [ERROR] INFO: Admin Console Adapter: context root: /admin
-[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] дек 17, 2017 9:50:05 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
 [ERROR] INFO: Admin Console Adapter: context root: /admin
-[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
+[ERROR] дек 17, 2017 9:50:05 AM com.sun.enterprise.v3.admin.adapter.AdminEndpointDecider setGuiContextRoot
 [ERROR] INFO: Admin Console Adapter: context root: /admin
-[ERROR] дек 03, 2017 10:56:20 AM com.sun.enterprise.v3.server.AppServerStartup postStartupJob
-[ERROR] INFO: Undefined Product Name - define product and version info in config/branding  0.0.0.0.0  (0) startup time : Embedded (1 287ms), startup services(1 030ms), total(2 317ms)
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.SecurityLifecycle <init>
+[ERROR] дек 17, 2017 9:50:05 AM com.sun.enterprise.v3.server.AppServerStartup postStartupJob
+[ERROR] INFO: Undefined Product Name - define product and version info in config/branding  0.0.0.0.0  (0) startup time : Embedded (1 390ms), startup services(1 312ms), total(2 702ms)
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.SecurityLifecycle <init>
 [ERROR] INFO: Java security manager is disabled.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.SecurityLifecycle onInitialization
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.SecurityLifecycle onInitialization
 [ERROR] INFO: Entering Security Startup Service.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.PolicyLoader loadPolicy
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.PolicyLoader loadPolicy
 [ERROR] INFO: Loading policy provider com.sun.enterprise.security.jacc.provider.SimplePolicyProvider.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
 [ERROR] INFO: Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
 [ERROR] INFO: Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.auth.realm.Realm doInstantiate
 [ERROR] INFO: Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.security.SecurityLifecycle onInitialization
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.security.SecurityLifecycle onInitialization
 [ERROR] INFO: Security Service(s) started successfully.
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.WebContainer createHttpListener
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.web.WebContainer createHttpListener
 [ERROR] INFO: Created HTTP listener http-listener on host/port 0.0.0.0:8080
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.VirtualServer addProbes
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.web.VirtualServer addProbes
 [ERROR] SEVERE: Error adding HttpProbes. NetworkListener https-listeners GrizzlyProxy is NULL
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.WebContainer createHosts
+[ERROR] дек 17, 2017 9:50:06 AM com.sun.enterprise.web.WebContainer createHosts
 [ERROR] INFO: Created virtual server server
-[ERROR] дек 03, 2017 10:56:21 AM org.apache.catalina.realm.JAASRealm setContainer
+[ERROR] дек 17, 2017 9:50:07 AM org.apache.catalina.realm.JAASRealm setContainer
 [ERROR] INFO: Setting JAAS app name glassfish-web
-[ERROR] дек 03, 2017 10:56:21 AM com.sun.enterprise.web.WebContainer loadSystemDefaultWebModules
+[ERROR] дек 17, 2017 9:50:07 AM com.sun.enterprise.web.WebContainer loadSystemDefaultWebModules
 [ERROR] INFO: Virtual server server loaded default web module
-[ERROR] дек 03, 2017 10:56:22 AM org.jboss.weld.bootstrap.WeldStartup <clinit>
+[ERROR] дек 17, 2017 9:50:07 AM org.jboss.weld.bootstrap.WeldStartup <clinit>
 [ERROR] INFO: WELD-000900: SNAPSHOT
-[ERROR] дек 03, 2017 10:56:23 AM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+[ERROR] дек 17, 2017 9:50:08 AM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
 [ERROR] WARN: WELD-000411: Observer method [BackedAnnotatedMethod] org.glassfish.sse.impl.ServerSentEventCdiExtension.processAnnotatedType(@Observes ProcessAnnotatedType<Object>, BeanManager) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
-[ERROR] дек 03, 2017 10:56:23 AM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
+[ERROR] дек 17, 2017 9:50:08 AM org.jboss.weld.event.ExtensionObserverMethodImpl checkRequiredTypeAnnotations
 [ERROR] WARN: WELD-000411: Observer method [BackedAnnotatedMethod] private org.glassfish.jersey.ext.cdi1x.internal.CdiComponentProvider.processAnnotatedType(@Observes ProcessAnnotatedType<Object>) receives events for all annotated types. Consider restricting events using @WithAnnotations or a generic type with bounds.
-[ERROR] дек 03, 2017 10:56:24 AM org.glassfish.jersey.internal.Errors logErrors
+[ERROR] дек 17, 2017 9:50:09 AM org.glassfish.jersey.internal.Errors logErrors
 [ERROR] WARNING: The following warnings have been detected: WARNING: Parameter 1 of type com.vaadin.ui.dnd.DragSourceExtension<? extends com.vaadin.ui.AbstractComponent> from public void com.vaadin.ui.UI.setActiveDragSource(com.vaadin.ui.dnd.DragSourceExtension<? extends com.vaadin.ui.AbstractComponent>) is not resolvable to a concrete type.
 [ERROR] 
-[ERROR] дек 03, 2017 10:56:24 AM com.sun.enterprise.web.WebApplication start
+[ERROR] дек 17, 2017 9:50:09 AM com.sun.enterprise.web.WebApplication start
 [ERROR] INFO: Loading application [war] at [/]
-[ERROR] дек 03, 2017 10:56:24 AM org.glassfish.deployment.admin.DeployCommand execute
-[ERROR] INFO: war was successfully deployed in 3 379 milliseconds.
-[ERROR] дек 03, 2017 10:56:24 AM com.sun.web.security.RealmAdapter getAppContextID
+[ERROR] дек 17, 2017 9:50:09 AM org.glassfish.deployment.admin.DeployCommand execute
+[ERROR] INFO: war was successfully deployed in 3 706 milliseconds.
+[ERROR] дек 17, 2017 9:50:10 AM com.sun.web.security.RealmAdapter getAppContextID
 [ERROR] WARNING: Context path from ServletContext:  differs from path from bundle: /
-[ERROR] дек 03, 2017 10:56:24 AM com.vaadin.server.DefaultDeploymentConfiguration checkProductionMode
+[ERROR] дек 17, 2017 9:50:10 AM com.vaadin.server.DefaultDeploymentConfiguration checkProductionMode
 [ERROR] WARNING:
 [ERROR] =================================================================
 [ERROR] Vaadin is running in DEBUG MODE.
 [ERROR] Add productionMode=true to web.xml to disable debug features.
 [ERROR] To show debug window, add ?debug to your application URL.
 [ERROR] =================================================================
-[ERROR] дек 03, 2017 10:56:25 AM org.springframework.context.support.AbstractApplicationContext prepareRefresh
-[ERROR] INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4755f31b: startup date [Sun Dec 03 10:56:25 EET 2017]; root of context hierarchy
-[ERROR] дек 03, 2017 10:56:25 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
-[ERROR] INFO: Loading XML bean definitions from class path resource [spring.xml]
-[ERROR] дек 03, 2017 10:56:25 AM com.vaadin.server.VaadinServlet serveStaticResourcesInVAADIN
+[ERROR] дек 17, 2017 9:50:10 AM com.vaadin.server.VaadinServlet serveStaticResourcesInVAADIN
 [ERROR] INFO: Requested resource [/VAADIN/themes/VaadinApplication/styles.css] not found from filesystem or through class loader. Add widgetset and/or theme JAR to your classpath or add files to WebContent/VAADIN folder.
-[ERROR] дек 03, 2017 10:56:26 AM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
+[ERROR] дек 17, 2017 9:50:10 AM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+[ERROR] INFO: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@304a9d17: startup date [Sun Dec 17 09:50:10 EET 2017]; root of context hierarchy
+[ERROR] дек 17, 2017 9:50:10 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+[ERROR] INFO: Loading XML bean definitions from class path resource [spring.xml]
+[ERROR] дек 17, 2017 9:50:11 AM org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor <init>
 [ERROR] INFO: JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
-[ERROR] дек 03, 2017 10:56:26 AM org.springframework.jdbc.datasource.DriverManagerDataSource setDriverClassName
+[ERROR] дек 17, 2017 9:50:11 AM com.vaadin.server.VaadinServlet serveStaticResourcesInVAADIN
+[ERROR] INFO: Requested resource [/VAADIN/themes/VaadinApplication/favicon.ico] not found from filesystem or through class loader. Add widgetset and/or theme JAR to your classpath or add files to WebContent/VAADIN folder.
+[ERROR] дек 17, 2017 9:50:11 AM org.springframework.jdbc.datasource.DriverManagerDataSource setDriverClassName
 [ERROR] INFO: Loaded JDBC driver: org.postgresql.Driver
-[INFO] CinemaEvent{id='2', name='Hurts', price=70, rating=HIGH, dates=[2017-12-03T10:56:27.222]}
-[INFO] CinemaEvent{id='1', name='Dead by April', price=50, rating=HIGH, dates=[2017-12-03T10:56:27.222]}
-[INFO] CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-03T10:56:27.222]}
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [protected final java.sql.Connection org.springframework.jdbc.core.support.JdbcDaoSupport.getConnection() throws org.springframework.jdbc.CannotGetJdbcConnectionException] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final javax.sql.DataSource org.springframework.jdbc.core.support.JdbcDaoSupport.getDataSource()] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final void org.springframework.jdbc.core.support.JdbcDaoSupport.setDataSource(javax.sql.DataSource)] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final org.springframework.jdbc.core.JdbcTemplate org.springframework.jdbc.core.support.JdbcDaoSupport.getJdbcTemplate()] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final void org.springframework.jdbc.core.support.JdbcDaoSupport.setJdbcTemplate(org.springframework.jdbc.core.JdbcTemplate)] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [protected final org.springframework.jdbc.support.SQLExceptionTranslator org.springframework.jdbc.core.support.JdbcDaoSupport.getExceptionTranslator()] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [protected final void org.springframework.jdbc.core.support.JdbcDaoSupport.releaseConnection(java.sql.Connection)] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] WARNING: Unable to proxy interface-implementing method [public final void org.springframework.dao.support.DaoSupport.afterPropertiesSet() throws java.lang.IllegalArgumentException,org.springframework.beans.factory.BeanInitializationException] because it is marked as final: Consider using interface-based JDK proxies instead!
+[ERROR] дек 17, 2017 9:50:12 AM org.springframework.aop.framework.CglibAopProxy doValidateClass
+[ERROR] INFO: Final method [public final void org.springframework.dao.support.DaoSupport.afterPropertiesSet() throws java.lang.IllegalArgumentException,org.springframework.beans.factory.BeanInitializationException] cannot get proxied via CGLIB: Calls to this method will NOT be routed to the target instance and might lead to NPEs against uninitialized fields in the proxy instance.
+[INFO] {dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='3', name='dEMOTIONAL', price=65, rating=HIGH, dates=[2017-12-17T09:50:30.033]}]
+[INFO] {Dead by April=1, dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='1', name='Dead by April', price=50, rating=HIGH, dates=[2017-12-17T09:50:34.674]}]
+[INFO] {Dead by April=2, dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='1', name='Dead by April', price=50, rating=HIGH, dates=[2017-12-17T09:50:37.032]}]
+[INFO] {Dead by April=3, dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='1', name='Dead by April', price=50, rating=HIGH, dates=[2017-12-17T09:50:37.195]}]
+[INFO] {Hurts=1, Dead by April=3, dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='2', name='Hurts', price=70, rating=HIGH, dates=[2017-12-17T09:50:41.301]}]
+[INFO] {Hurts=2, Dead by April=3, dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='2', name='Hurts', price=70, rating=HIGH, dates=[2017-12-17T09:50:41.440]}]
+[INFO] {Hurts=3, Dead by April=3, dEMOTIONAL=1}
+[INFO] [CinemaEvent{id='2', name='Hurts', price=70, rating=HIGH, dates=[2017-12-17T09:50:41.578]}]

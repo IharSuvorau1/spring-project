@@ -22,10 +22,9 @@ public class VaadinApplicationUI extends UI{
 			controller = (ApplicationController) context.getBean("ApplicationController");
 			VerticalLayout verticalLayout = new VerticalLayout();
 			Grid<CinemaEvent> grid = buildGrid();
-			verticalLayout.addComponent(grid);
+			verticalLayout.addComponents(grid, buildLayout());
 			verticalLayout.setComponentAlignment(grid, Alignment.MIDDLE_CENTER);
 			setContent(verticalLayout);
-			controller.getEvents().forEach(System.out::println);
 		} catch (Throwable throwable) {
 			Notification.show(throwable.getMessage());
 		}
@@ -36,10 +35,17 @@ public class VaadinApplicationUI extends UI{
 	    grid.setItems(controller.getEvents());
 	    grid.addColumn(CinemaEvent::getName).setCaption("Event name");
         grid.addColumn(event -> event.getDates().stream().map(
-                date -> date.format(DateTimeFormatter.ISO_DATE)).collect(Collectors.toSet())).setCaption("Dates");
+        		date -> date.format(DateTimeFormatter.ISO_DATE)).collect(Collectors.toSet())).setCaption("Dates");
         grid.addColumn(CinemaEvent::getRating).setCaption("Rating");
         grid.addColumn(CinemaEvent::getPrice).setCaption("Price");
         grid.setSizeFull();
 	    return grid;
     }
+
+    private VerticalLayout buildLayout() {
+		TextField textField = new TextField("Event name");
+		Button button = new Button("Get Event");
+		button.addClickListener(event -> controller.getEventByName(textField.getValue()));
+		return new VerticalLayout(textField, button);
+	}
 }

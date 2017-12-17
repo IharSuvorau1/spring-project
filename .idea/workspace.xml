@@ -4,7 +4,108 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/epam/domain/CinemaEvent.java" line="77" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4239550b-72c6-461a-8b84-70ad68727cba" name="Default" comment="" />
+    <list default="true" id="4239550b-72c6-461a-8b84-70ad68727cba" name="Default" comment="B0001: main implementation">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/aspects/CounterAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/aspects/DiscountAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/aspects/LuckyWinnerAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/aspects/CounterAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/aspects/DiscountAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/aspects/LuckyWinnerAspect.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/__cp_jdbc_ra.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/__dm_jdbc_ra.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/__ds_jdbc_ra.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/__xa_jdbc_ra.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/cacerts.jks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/keyfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/keystore.jks" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/lockfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__cp_jdbc_ra/__cp_jdbc_ra.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__dm_jdbc_ra/__dm_jdbc_ra.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__ds_jdbc_ra/__ds_jdbc_ra.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__xa_jdbc_ra/__xa_jdbc_ra.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__postgresql_postgresql_9_0_801_jdbc4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/.vaadin-gradle-plugin-version.check" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/local-password" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/pid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/pid.prev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/admin-keyfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/default-web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/domain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/local-password" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/login.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/pid" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/pid.prev" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/config/server.policy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__cp_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__dm_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__ds_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/lib/install/applications/__xa_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed6235082444016605185tmp/logs/server.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aspects/CounterAspect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/epam/aspects/DiscountAspect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/epam/domain/Ticket.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/local-password" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/pid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/pid.prev" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileContent/annotation-processors.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileContent/fileContent.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.3.1/fileHashes/resourceHashesCache.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.3.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.3.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.3.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/java/main/com/epam/service/EventService$EventMapper.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/service/EventService$EventMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/java/main/com/epam/service/EventService.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/service/EventService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/java/main/com/epam/ui/ApplicationController.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/ui/ApplicationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/java/main/com/epam/ui/VaadinApplicationUI.class" afterPath="$PROJECT_DIR$/build/classes/java/main/com/epam/ui/VaadinApplicationUI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/vaadinApplication-1.0-SNAPSHOT-classpath.jar" afterPath="$PROJECT_DIR$/build/libs/vaadinApplication-1.0-SNAPSHOT-classpath.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/service/EventService$EventMapper.class" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/service/EventService$EventMapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/service/EventService.class" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/service/EventService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/ui/ApplicationController.class" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/ui/ApplicationController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/ui/VaadinApplicationUI.class" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/com/epam/ui/VaadinApplicationUI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/vaadinApplication_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/vaadinApplication_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/vaadinApplication_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/vaadinApplication_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/logs/addon-style-updater.log" afterPath="$PROJECT_DIR$/build/logs/addon-style-updater.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/logs/payara.log" afterPath="$PROJECT_DIR$/build/logs/payara.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/payara/classpath.txt" afterPath="$PROJECT_DIR$/build/payara/classpath.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/spring.xml" afterPath="$PROJECT_DIR$/build/payara/war/WEB-INF/classes/spring.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/spring.xml" afterPath="$PROJECT_DIR$/build/resources/main/spring.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/tmp/vaadinClassPathJar/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/vaadinClassPathJar/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java" afterPath="$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/__cp_jdbc_ra.rar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/__cp_jdbc_ra.rar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/__dm_jdbc_ra.rar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/__dm_jdbc_ra.rar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/__ds_jdbc_ra.rar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/__ds_jdbc_ra.rar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/__xa_jdbc_ra.rar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/__xa_jdbc_ra.rar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/admin-keyfile" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/admin-keyfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/cacerts.jks" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/cacerts.jks" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/default-web.xml" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/default-web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/domain.xml" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/domain.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/keyfile" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/keyfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/keystore.jks" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/keystore.jks" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/lockfile" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/lockfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/login.conf" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/login.conf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/config/server.policy" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/config/server.policy" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__cp_jdbc_ra/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__cp_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__cp_jdbc_ra/__cp_jdbc_ra.jar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__cp_jdbc_ra/__cp_jdbc_ra.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__dm_jdbc_ra/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__dm_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__dm_jdbc_ra/__dm_jdbc_ra.jar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__dm_jdbc_ra/__dm_jdbc_ra.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__ds_jdbc_ra/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__ds_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__ds_jdbc_ra/__ds_jdbc_ra.jar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__ds_jdbc_ra/__ds_jdbc_ra.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__xa_jdbc_ra/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__xa_jdbc_ra/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/lib/install/applications/__xa_jdbc_ra/__xa_jdbc_ra.jar" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/lib/install/applications/__xa_jdbc_ra/__xa_jdbc_ra.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed2358382658799147638tmp/logs/server.log" afterPath="$PROJECT_DIR$/build/tmp/vaadinRun/gfembed4867321431277180780tmp/logs/server.log" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,11 +165,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/UserService.java">
+      <file leaf-file-name="EventService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="83" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -79,8 +180,8 @@
       <file leaf-file-name="AuditoriumService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/AuditoriumService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="408">
+              <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,11 +189,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VaadinApplicationUI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java">
+      <file leaf-file-name="CounterAspect.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aspects/CounterAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+            <state relative-caret-position="367">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,11 +201,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EventService.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java">
+      <file leaf-file-name="DiscountAspect.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aspects/DiscountAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+            <state relative-caret-position="306">
+              <caret line="18" column="62" lean-forward="true" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,47 +213,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="payara.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/logs/payara.log">
+      <file leaf-file-name="DiscountService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/DiscountService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CinemaEvent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/domain/CinemaEvent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="77" column="5" lean-forward="false" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplicationController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#924#925#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VaadinApplicationServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="153">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -170,6 +235,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>getEvent</find>
+      <find>counter</find>
+      <find>System.out</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -177,6 +244,9 @@
     <dirStrings>
       <dir>D:\work\vaadin_application\src\main\java\com\example\vaadin_application</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -566,8 +636,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3022876140000" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="29190783" />
+        <entry key="$PROJECT_DIR$" value="3024080318000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3743469446" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="2094123012" />
       </map>
     </option>
@@ -583,8 +653,8 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devsoap.plugin/gradle-vaadin-plugin/1.2.5/b9be831d488b8fff922c1439abec23b00bb0e34f/gradle-vaadin-plugin-1.2.5-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devsoap.plugin/gradle-vaadin-plugin/1.2.5/a937336a8da8c794aa1ba789d78245df38d457ad/gradle-vaadin-plugin-1.2.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devsoap.plugin/gradle-vaadin-plugin/1.2.6/7f82699fb2b96136ade1eccbadf294e1c4ec6680/gradle-vaadin-plugin-1.2.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.devsoap.plugin/gradle-vaadin-plugin/1.2.6/16389b1e73fa2f9bc7ec07eaa1c77f732d31e45b/gradle-vaadin-plugin-1.2.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.5.v20170502/75920b81ac18bee7e174f25de1d8280f30308532/jetty-client-9.4.5.v20170502-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.4.5.v20170502/ca35c26110afd73d4cc164682bd0d4b0c1e057cb/jetty-client-9.4.5.v20170502.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-deploy/9.4.5.v20170502/b392b681b192ead9d62a9340e7a1c3dc2362d759/jetty-deploy-9.4.5.v20170502-sources.jar" />
@@ -886,19 +956,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/epam/domain/Event.java" />
         <option value="$PROJECT_DIR$/src/main/resources/auditorium.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/service/DiscountService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/Vaadin_application/vaadin_application.scss" />
         <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/Vaadin_application/addons.scss" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
         <option value="$PROJECT_DIR$/build/logs/theme-compile.log" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/service/UserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/service/AuditoriumService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java" />
-        <option value="$PROJECT_DIR$/build/logs/payara.log" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/domain/CinemaEvent.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aspects/LuckyWinnerAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/build/logs/payara.log" />
         <option value="$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/domain/Ticket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aspects/CounterAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/epam/aspects/DiscountAspect.java" />
       </list>
     </option>
   </component>
@@ -907,6 +981,9 @@
     <option name="y" value="-8" />
     <option name="width" value="1692" />
     <option name="height" value="1062" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -966,6 +1043,15 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="epam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vaadin_application" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="epam" type="462c0819:PsiDirectoryNode" />
+              <item name="aspects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
@@ -1049,6 +1135,42 @@
             <path>
               <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="atomic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Gradle: com.vaadin:vaadin-server:8.1.7" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
@@ -1071,6 +1193,40 @@
               <item name="vaadin-server-8.1.7.jar" type="462c0819:PsiDirectoryNode" />
               <item name="vaadin" type="462c0819:PsiDirectoryNode" />
               <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.aspectj:aspectjweaver:1.5.4" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.aspectj:aspectjweaver:1.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.aspectj:aspectjweaver:1.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.aspectj:aspectjweaver:1.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.aspectj:aspectjweaver:1.5.4" type="70bed36:NamedLibraryElementNode" />
+              <item name="aspectjweaver-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="aspectj" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
@@ -1107,20 +1263,37 @@
               <item name="core" type="462c0819:PsiDirectoryNode" />
               <item name="support" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-jdbc:5.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-jdbc-5.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vaadinApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Gradle: org.springframework:spring-jdbc:5.0.1.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-jdbc-5.0.1.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="rowset" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maven_spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gradleApplication" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
@@ -1353,17 +1526,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28239608" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.297066" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27003294" sideWeight="0.502445" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43139407" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18154034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27003294" sideWeight="0.49755502" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27003294" sideWeight="0.49755502" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1381,6 +1555,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="B0001: main implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="B0001: main implementation" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -1391,114 +1569,15 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="8" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="73" lean-forward="false" selection-start-line="23" selection-start-column="73" selection-end-line="23" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="27" lean-forward="false" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/Vaadin_application/vaadin_application.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="11" column="55" lean-forward="false" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/AuditoriumService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/DiscountService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1604,16 +1683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/annotation/RetentionPolicy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-211">
@@ -1621,54 +1690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/auditorium.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/DiscountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/.vaadin-gradle-plugin-version.check" />
-    <entry file="file://$PROJECT_DIR$/build/logs/addon-style-updater.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/logs/theme-compile.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="77" lean-forward="false" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.1.RELEASE/3b57d6cc5d92481d28ef4e9312fc0e9a27b208f7/spring-jdbc-5.0.1.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="747" column="57" lean-forward="true" selection-start-line="747" selection-start-column="57" selection-end-line="747" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/time/format/DateTimeFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -1680,14 +1702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="476" column="53" lean-forward="true" selection-start-line="476" selection-start-column="53" selection-end-line="476" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/domain/Auditorium.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1713,17 +1727,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#832#833#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#924#925#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="393">
+          <caret line="25" column="69" lean-forward="false" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vaadin/vaadin-server/8.1.7/ed85dfbc9d6312c480fa7ea119c4e61a76664b25/vaadin-server-8.1.7-sources.jar!/com/vaadin/ui/TextField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="37" column="11" lean-forward="false" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/logs/addon-style-updater.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/logs/theme-compile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/logs/payara.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1412">
+          <caret line="121" column="13" lean-forward="false" selection-start-line="121" selection-start-column="13" selection-end-line="121" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.5.4/39a53e53c38689b59ec1245f807ca4af83d18db4/aspectjweaver-1.5.4.jar!/org/aspectj/lang/JoinPoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/domain/Auditorium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/auditorium.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1735,46 +1796,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.1.RELEASE/3b57d6cc5d92481d28ef4e9312fc0e9a27b208f7/spring-jdbc-5.0.1.RELEASE-sources.jar!/org/springframework/jdbc/core/JdbcTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        <state relative-caret-position="1314">
+          <caret line="478" column="37" lean-forward="false" selection-start-line="478" selection-start-column="37" selection-end-line="478" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/5.0.1.RELEASE/3b57d6cc5d92481d28ef4e9312fc0e9a27b208f7/spring-jdbc-5.0.1.RELEASE-sources.jar!/org/springframework/jdbc/support/rowset/SqlRowSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="62" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="459" column="12" lean-forward="false" selection-start-line="459" selection-start-column="12" selection-end-line="459" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build/logs/payara.log">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state relative-caret-position="272">
+          <caret line="49" column="13" lean-forward="false" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="61" lean-forward="false" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/ApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/AuditoriumService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="408">
+          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1783,8 +1856,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/EventService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        <state relative-caret-position="350">
+          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="83" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/domain/Ticket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/ui/VaadinApplicationUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="39" column="66" lean-forward="false" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/BookingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="803" column="4" lean-forward="false" selection-start-line="803" selection-start-column="4" selection-end-line="803" selection-end-column="4" />
+          <folding>
+            <element signature="e#33990#33991#0" expanded="true" />
+            <element signature="e#34045#34046#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="1168" column="14" lean-forward="false" selection-start-line="1168" selection-start-column="14" selection-end-line="1168" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aspects/CounterAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/service/DiscountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aspects/LuckyWinnerAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="false" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/aspects/DiscountAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="62" lean-forward="true" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -35,4 +35,8 @@ public class ApplicationController {
     public void insertEvent(CinemaEvent event) {
         eventService.insert(event);
     }
+
+    public CinemaEvent getEventByName(String name) {
+        return eventService.getByName(name);
+    }
 }

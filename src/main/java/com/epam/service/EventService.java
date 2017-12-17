@@ -31,7 +31,8 @@ public class EventService extends JdbcDaoSupport {
 
     public void insert(CinemaEvent event) {
         String sql = "INSERT INTO public.event VALUES (?, ?, ?, ?, ?)";
-        event.getDates().forEach(date -> getJdbcTemplate().update(sql, event.getId(), event.getName(), event.getPrice(), event.getRating(), date));
+        event.getDates().forEach(date -> getJdbcTemplate().update(sql, event.getId(), event.getName(),
+                event.getPrice(), event.getRating(), date));
     }
 
     public void remove(String id) {
@@ -41,12 +42,14 @@ public class EventService extends JdbcDaoSupport {
 
     public CinemaEvent getById(String id) {
         String sql = "select * from public.event where id = ?";
-        return (CinemaEvent) getJdbcTemplate().query(sql, new Object[]{id}, new EventMapper()).get(0);
+        List<CinemaEvent> events = getJdbcTemplate().query(sql, new Object[]{id}, new EventMapper());
+        return !events.isEmpty() ? events.get(0) : null;
     }
 
     public CinemaEvent getByName(String name) {
         String sql = "select * from public.event where name = ?";
-        return (CinemaEvent) getJdbcTemplate().query(sql, new Object[]{name}, new EventMapper()).get(0);
+        List<CinemaEvent> events = getJdbcTemplate().query(sql, new Object[]{name}, new EventMapper());
+        return !events.isEmpty() ? events.get(0) : null;
     }
 
     public List<CinemaEvent> getAll() {
